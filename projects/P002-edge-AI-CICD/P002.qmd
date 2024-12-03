@@ -1,0 +1,42 @@
+---
+title: "Project P002: Edge AI CICD"
+author: "Chetan"
+date: "2023-10-05"
+format: html
+---
+
+# Introduction
+
+This project focuses on the implementation of Continuous Integration and Continuous Deployment (CI/CD) for Edge AI applications.
+
+# Objectives
+
+- Automate the build and deployment process for Edge AI applications.
+- Ensure high-quality code through automated testing.
+- Deploy applications to edge devices seamlessly.
+
+# Methodology
+
+## Step 1: Setting up the CI/CD Pipeline
+
+Describe the tools and technologies used for setting up the CI/CD pipeline.
+
+## Step 2: Automated Testing
+
+Explain the testing framework and how tests are automated.
+
+## Step 3: Deployment
+
+Detail the deployment process to edge devices.
+
+# Results
+
+Summarize the outcomes of the project, including any metrics or performance improvements.
+
+# Conclusion
+
+Conclude with the benefits of implementing CI/CD for Edge AI applications and any future work.
+
+# References
+
+List any references or resources used in the project.

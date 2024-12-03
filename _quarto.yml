@@ -3,16 +3,83 @@ project:
   output-dir: docs
 
 website:
-  title: "CHETAN KADWAY"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+    title: "CHETAN KADWAY"
+    navbar:
+      left:
+        - text: "Home"
+          href: index.qmd
+        - text: "Projects"
+          href: projects.qmd
+        - text: "Services"
+          href: services.qmd
+        - text: "Notes"
+          href: notes.qmd
+        - text: "Journal"
+          href: journal.qmd
 
+    sidebar:
+      style: "docked"
+      contents:
+        - text: "<b>Home</b>"
+          href: index.qmd
+        - section: "<b>Projects</b>"
+          href: projects.qmd
+          contents:
+            - text: "Project 1"
+              href: projects.qmd#project-1
+            - text: "Project 2"
+              href: projects.qmd#project-2
+            - text: "Project 3"
+              href: projects.qmd#project-3
+            - text: "Project 4"
+              href: projects.qmd#project-4
+        - section: "<b>Services</b>"
+          href: services.qmd
+          contents:
+            - text: "Service 1"
+              href: projects.qmd#project-1
+            - text: "Service 2"
+              href: projects.qmd#project-2
+            - text: "Service 3"
+              href: projects.qmd#project-3
+            - text: "Service 4"
+              href: projects.qmd#project-4
+        - section: "<b>Notes</b>"
+          href: notes.qmd
+          contents:
+            - section: "High-Level Topic 1"
+              href: notes.qmd#high-level-topic-1
+              contents:
+                - text: "Subtopic 1.1"
+                  href: notes.qmd#subtopic-1-1
+                - text: "Subtopic 1.2"
+                  href: notes.qmd#subtopic-1-2
+            - section: "High-Level Topic 2"
+              href: notes.qmd#high-level-topic-2
+              contents:
+                - text: "Subtopic 2.1"
+                  href: notes.qmd#subtopic-2-1
+                - text: "Subtopic 2.2"
+                  href: notes.qmd#subtopic-2-2
+        - section: "<b>Journal</b>"
+          href: journal.qmd
+          contents:
+            - section: "2024"
+              href: notes.qmd#high-level-topic-1
+              contents:
+                - text: "January"
+                  href: notes.qmd#subtopic-1-1
+                - text: "February"
+                  href: notes.qmd#subtopic-1-2
+            - section: "2023"
+              href: notes.qmd#high-level-topic-2
+              contents:
+                - text: "January"
+                  href: notes.qmd#subtopic-2-1
+                - text: "February"
+                  href: notes.qmd#subtopic-2-2
 format:
-  html:
+  html: 
     theme: journal
     css: styles.css
     toc: true

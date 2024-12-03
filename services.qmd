@@ -1,0 +1,41 @@
+---
+title: "Services"
+format: 
+  html:
+    page-layout: full
+toc: false
+---
+
+I offer a range of services to help you achieve your goals. Below are some of the skills I am available for hire on a per-hour billing model.
+
+::: {.grid}
+::: {.g-col-4 .border .rounded .p-3 .bg-light}
+### Machine Learning Consulting
+**Brief Description**: Providing expert advice and solutions for your machine learning projects.
+- **Key Skills**: Python, TensorFlow, Scikit-Learn
+- **Hourly Rate**: $100/hour
+- **Contact**: [Get in Touch](mailto:your-email@example.com)
+:::
+::: {.g-col-4 .border .rounded .p-3 .bg-light}
+### Data Analysis
+**Brief Description**: Analyzing your data to extract meaningful insights and drive decision-making.
+- **Key Skills**: Python, Pandas, SQL
+- **Hourly Rate**: $80/hour
+- **Contact**: [Get in Touch](mailto:your-email@example.com)
+:::
+::: {.g-col-4 .border .rounded .p-3 .bg-light}
+### Web Development
+**Brief Description**: Building responsive and dynamic websites tailored to your needs.
+- **Key Skills**: HTML, CSS, JavaScript, React
+- **Hourly Rate**: $90/hour
+- **Contact**: [Get in Touch](mailto:your-email@example.com)
+:::
+::: {.g-col-4 .border .rounded .p-3 .bg-light}
+### DevOps Engineering
+**Brief Description**: Implementing CI/CD pipelines and automating your infrastructure.
+- **Key Skills**: Docker, Kubernetes, Jenkins
+- **Hourly Rate**: $110/hour
+- **Contact**: [Get in Touch](mailto:your-email@example.com)
+:::
+<!-- Add more service tiles as needed -->
+:::

@@ -1,7 +1,64 @@
 ---
-title: "ML Researcher | Edge AI"
+title: "Chetan Kadway [ML Researcher | Edge AI]"
+format: 
+  html:
+    page-layout: full
+    css: index_styles.css
 ---
 
-This is a Quarto website.
+Welcome to my personal portfolio website! Here, you will find information about my professional background, key projects, research publications, and achievements in the field of Machine Learning and Edge AI.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Personal Contact Info
+::: {.callout-note appearance="simple" icon=false}
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Phone**: +123-456-7890
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+:::
+
+## Career Summary
+::: {.callout-important appearance="simple" icon=false}
+I am an experienced ML Researcher specializing in Edge AI with a strong background in developing and deploying machine learning models on edge devices. I have a proven track record of delivering high-impact projects and contributing to cutting-edge research in the field.
+:::
+
+## Key Technical Skills
+::: {.callout-tip appearance="simple" icon=false}
+- **Programming Languages**: Python, C++, JavaScript
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn
+- **Data Analysis**: Pandas, NumPy, SQL
+- **DevOps**: Docker, Kubernetes, Jenkins
+- **Web Development**: HTML, CSS, JavaScript, React
+:::
+
+## Education Background
+::: {.callout-note appearance="simple" icon=false}
+- **Ph.D. in Computer Science** - University of XYZ, 2020
+- **M.S. in Artificial Intelligence** - University of ABC, 2016
+- **B.S. in Computer Science** - University of DEF, 2014
+:::
+
+## Key Projects
+::: {.grid}
+::: {.g-col-6 .border .rounded .p-3 .bg-light}
+### [Project 1: Edge AI CI/CD](projects/P001-edge-AI-CICD/P001.qmd)
+Implemented CI/CD pipelines for Edge AI applications using Docker, Kubernetes, and Jenkins.
+:::
+::: {.g-col-6 .border .rounded .p-3 .bg-light}
+### [Project 2: AI Model Deployment](projects/P002-edge-AI-CICD/P002.qmd)
+Explored the deployment of AI models on edge devices using Avassa.
+:::
+:::
+
+## Research Publications
+::: {.callout-note appearance="simple" icon=false}
+- **Paper 1**: "Title of Research Paper 1", Journal of XYZ, 2021
+- **Paper 2**: "Title of Research Paper 2", Conference on ABC, 2020
+:::
+
+## Key Achievements Timeline
+::: {.callout-tip appearance="simple" icon=false}
+- **2022**: Awarded "Best Researcher" at the International AI Conference
+- **2021**: Published a groundbreaking paper on Edge AI in the Journal of XYZ
+- **2020**: Completed Ph.D. in Computer Science with a focus on Edge AI
+- **2019**: Developed a novel AI model for real-time data analysis on edge devices
+:::

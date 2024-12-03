@@ -1,0 +1,27 @@
+---
+title: "Project 1: Edge AI CI/CD"
+---
+
+# Project 1: Edge AI CI/CD
+
+## Overview
+This project focuses on implementing CI/CD pipelines for Edge AI applications.
+
+## Objectives
+- Automate the deployment process for AI models on edge devices.
+- Ensure continuous integration and delivery of updates.
+
+## Technologies Used
+- Docker
+- Kubernetes
+- Jenkins
+- Avassa
+
+## Detailed Description
+Provide a detailed description of the project, including the problem it solves, the approach taken, and any challenges faced.
+
+## Results
+Discuss the outcomes of the project, including any metrics or performance improvements.
+
+## Future Work
+Outline any future enhancements or next steps for the project.

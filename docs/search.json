@@ -9,8 +9,298 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ML Researcher | Edge AI",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my personal portfolio website! Here, you will find information about my professional background, key projects, research publications, and achievements in the field of Machine Learning and Edge AI.",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "I offer a range of services to help you achieve your goals. Below are some of the skills I am available for hire on a per-hour billing model.\n\n\nMachine Learning Consulting\nBrief Description: Providing expert advice and solutions for your machine learning projects. - Key Skills: Python, TensorFlow, Scikit-Learn - Hourly Rate: $100/hour - Contact: Get in Touch\n\n\nData Analysis\nBrief Description: Analyzing your data to extract meaningful insights and drive decision-making. - Key Skills: Python, Pandas, SQL - Hourly Rate: $80/hour - Contact: Get in Touch\n\n\nWeb Development\nBrief Description: Building responsive and dynamic websites tailored to your needs. - Key Skills: HTML, CSS, JavaScript, React - Hourly Rate: $90/hour - Contact: Get in Touch\n\n\nDevOps Engineering\nBrief Description: Implementing CI/CD pipelines and automating your infrastructure. - Key Skills: Docker, Kubernetes, Jenkins - Hourly Rate: $110/hour - Contact: Get in Touch",
+    "crumbs": [
+      "Home",
+      "<b>Services</b>"
+    ]
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Welcome to my notes page. Here, you will find detailed notes on various topics related to my field of expertise.\n\n\n\n\nAdd your notes for Subtopic 1.1 here.\n\n\n\nAdd your notes for Subtopic 1.2 here.\n\n\n\n\n\n\nAdd your notes for Subtopic 2.1 here.\n\n\n\nAdd your notes for Subtopic 2.2 here.\n\n\n\n\n\nReference 1: Link to reference\nReference 2: Link to reference\n\n\n\n\n\nResource 1: Link to resource\nResource 2: Link to resource",
+    "crumbs": [
+      "Home",
+      "<b>Notes</b>"
+    ]
+  },
+  {
+    "objectID": "journal.html",
+    "href": "journal.html",
+    "title": "Journal",
+    "section": "",
+    "text": "Welcome to my journal page. Here, you will find my personal journal entries, reflections, and plans for the future.\n\n\n\n\nWrite your journal entry for this date here.\n\n\n\nWrite your journal entry for this date here.\n\n\n\nWrite your journal entry for this date here.\n\n\n\n\n\n\nWrite your personal reflection or insight here.\n\n\n\nWrite your personal reflection or insight here.\n\n\n\n\n\n\nWrite your future plan or goal here.\n\n\n\nWrite your future plan or goal here.\n\n\n\n\n\nReference 1: Link to reference\nReference 2: Link to reference",
+    "crumbs": [
+      "Home",
+      "<b>Journal</b>"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1\n Brief Introduction: This project focuses on implementing CI/CD pipelines for Edge AI applications.\n\nStatus: Completed\nLast updated: 30-Oct-2024\nTech tags: Docker, Kubernetes, Jenkins, Avassa\n\n\n\nProject 2\n Brief Introduction: This project explores the deployment of AI models on edge devices using Avassa.\n\nStatus: In Progress\nLast updated: 03-Dec-2024\nTech tags: Docker, Kubernetes, Jenkins, Avassa\n\n\n\nProject 1\n Brief Introduction: This project focuses on implementing CI/CD pipelines for Edge AI applications.\n\nStatus: Completed\nLast updated: 30-Oct-2024\nTech tags: Docker, Kubernetes, Jenkins, Avassa\n\n\n\nProject 2\n Brief Introduction: This project explores the deployment of AI models on edge devices using Avassa.\n\nStatus: In Progress\nLast updated: 03-Dec-2024\nTech tags: Docker, Kubernetes, Jenkins, Avassa",
+    "crumbs": [
+      "Home",
+      "<b>Projects</b>"
+    ]
+  },
+  {
+    "objectID": "projects/P001-edge-AI-CICD/P001.html",
+    "href": "projects/P001-edge-AI-CICD/P001.html",
+    "title": "Project 1: Edge AI CI/CD",
+    "section": "",
+    "text": "This project focuses on implementing CI/CD pipelines for Edge AI applications.\n\n\n\n\nAutomate the deployment process for AI models on edge devices.\nEnsure continuous integration and delivery of updates.\n\n\n\n\n\nDocker\nKubernetes\nJenkins\nAvassa\n\n\n\n\nProvide a detailed description of the project, including the problem it solves, the approach taken, and any challenges faced.\n\n\n\nDiscuss the outcomes of the project, including any metrics or performance improvements.\n\n\n\nOutline any future enhancements or next steps for the project."
+  },
+  {
+    "objectID": "projects/P001-edge-AI-CICD/P001.html#overview",
+    "href": "projects/P001-edge-AI-CICD/P001.html#overview",
+    "title": "Project 1: Edge AI CI/CD",
+    "section": "",
+    "text": "This project focuses on implementing CI/CD pipelines for Edge AI applications."
+  },
+  {
+    "objectID": "projects/P001-edge-AI-CICD/P001.html#objectives",
+    "href": "projects/P001-edge-AI-CICD/P001.html#objectives",
+    "title": "Project 1: Edge AI CI/CD",
+    "section": "",
+    "text": "Automate the deployment process for AI models on edge devices.\nEnsure continuous integration and delivery of updates."
+  },
+  {
+    "objectID": "projects/P001-edge-AI-CICD/P001.html#technologies-used",
+    "href": "projects/P001-edge-AI-CICD/P001.html#technologies-used",
+    "title": "Project 1: Edge AI CI/CD",
+    "section": "",
+    "text": "Docker\nKubernetes\nJenkins\nAvassa"
+  },
+  {
+    "objectID": "projects/P001-edge-AI-CICD/P001.html#detailed-description",
+    "href": "projects/P001-edge-AI-CICD/P001.html#detailed-description",
+    "title": "Project 1: Edge AI CI/CD",
+    "section": "",
+    "text": "Provide a detailed description of the project, including the problem it solves, the approach taken, and any challenges faced."
+  },
+  {
+    "objectID": "projects/P001-edge-AI-CICD/P001.html#results",
+    "href": "projects/P001-edge-AI-CICD/P001.html#results",
+    "title": "Project 1: Edge AI CI/CD",
+    "section": "",
+    "text": "Discuss the outcomes of the project, including any metrics or performance improvements."
+  },
+  {
+    "objectID": "projects/P001-edge-AI-CICD/P001.html#future-work",
+    "href": "projects/P001-edge-AI-CICD/P001.html#future-work",
+    "title": "Project 1: Edge AI CI/CD",
+    "section": "",
+    "text": "Outline any future enhancements or next steps for the project."
+  },
+  {
+    "objectID": "projects/P002-edge-AI-CICD/P002.html",
+    "href": "projects/P002-edge-AI-CICD/P002.html",
+    "title": "Project P002: Edge AI CICD",
+    "section": "",
+    "text": "This project focuses on the implementation of Continuous Integration and Continuous Deployment (CI/CD) for Edge AI applications."
+  },
+  {
+    "objectID": "projects/P002-edge-AI-CICD/P002.html#step-1-setting-up-the-cicd-pipeline",
+    "href": "projects/P002-edge-AI-CICD/P002.html#step-1-setting-up-the-cicd-pipeline",
+    "title": "Project P002: Edge AI CICD",
+    "section": "Step 1: Setting up the CI/CD Pipeline",
+    "text": "Step 1: Setting up the CI/CD Pipeline\nDescribe the tools and technologies used for setting up the CI/CD pipeline."
+  },
+  {
+    "objectID": "projects/P002-edge-AI-CICD/P002.html#step-2-automated-testing",
+    "href": "projects/P002-edge-AI-CICD/P002.html#step-2-automated-testing",
+    "title": "Project P002: Edge AI CICD",
+    "section": "Step 2: Automated Testing",
+    "text": "Step 2: Automated Testing\nExplain the testing framework and how tests are automated."
+  },
+  {
+    "objectID": "projects/P002-edge-AI-CICD/P002.html#step-3-deployment",
+    "href": "projects/P002-edge-AI-CICD/P002.html#step-3-deployment",
+    "title": "Project P002: Edge AI CICD",
+    "section": "Step 3: Deployment",
+    "text": "Step 3: Deployment\nDetail the deployment process to edge devices."
+  },
+  {
+    "objectID": "index.html#personal-contact-info",
+    "href": "index.html#personal-contact-info",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
+    "section": "Personal Contact Info",
+    "text": "Personal Contact Info\n\n\n\n\n\n\n\nEmail: your-email@example.com\nPhone: +123-456-7890\nLinkedIn: linkedin.com/in/yourprofile\nGitHub: github.com/yourusername",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "index.html#career-summary",
+    "href": "index.html#career-summary",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
+    "section": "Career Summary",
+    "text": "Career Summary\n\n\n\n\n\n\nI am an experienced ML Researcher specializing in Edge AI with a strong background in developing and deploying machine learning models on edge devices. I have a proven track record of delivering high-impact projects and contributing to cutting-edge research in the field.",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "index.html#key-technical-skills",
+    "href": "index.html#key-technical-skills",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
+    "section": "Key Technical Skills",
+    "text": "Key Technical Skills\n\n\n\n\n\n\n\nProgramming Languages: Python, C++, JavaScript\nMachine Learning: TensorFlow, PyTorch, Scikit-Learn\nData Analysis: Pandas, NumPy, SQL\nDevOps: Docker, Kubernetes, Jenkins\nWeb Development: HTML, CSS, JavaScript, React",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "index.html#education-background",
+    "href": "index.html#education-background",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
+    "section": "Education Background",
+    "text": "Education Background\n\n\n\n\n\n\n\nPh.D. in Computer Science - University of XYZ, 2020\nM.S. in Artificial Intelligence - University of ABC, 2016\nB.S. in Computer Science - University of DEF, 2014",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "index.html#key-projects",
+    "href": "index.html#key-projects",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
+    "section": "Key Projects",
+    "text": "Key Projects\n\n\nProject 1: Edge AI CI/CD\nImplemented CI/CD pipelines for Edge AI applications using Docker, Kubernetes, and Jenkins.\n\n\nProject 2: AI Model Deployment\nExplored the deployment of AI models on edge devices using Avassa.",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "index.html#research-publications",
+    "href": "index.html#research-publications",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
+    "section": "Research Publications",
+    "text": "Research Publications\n\n\n\n\n\n\n\nPaper 1: “Title of Research Paper 1”, Journal of XYZ, 2021\nPaper 2: “Title of Research Paper 2”, Conference on ABC, 2020",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "index.html#key-achievements-timeline",
+    "href": "index.html#key-achievements-timeline",
+    "title": "Chetan Kadway [ML Researcher | Edge AI]",
+    "section": "Key Achievements Timeline",
+    "text": "Key Achievements Timeline\n\n\n\n\n\n\n\n2022: Awarded “Best Researcher” at the International AI Conference\n2021: Published a groundbreaking paper on Edge AI in the Journal of XYZ\n2020: Completed Ph.D. in Computer Science with a focus on Edge AI\n2019: Developed a novel AI model for real-time data analysis on edge devices",
+    "crumbs": [
+      "Home",
+      "**Home**"
+    ]
+  },
+  {
+    "objectID": "notes.html#high-level-topic-1",
+    "href": "notes.html#high-level-topic-1",
+    "title": "Notes",
+    "section": "",
+    "text": "Add your notes for Subtopic 1.1 here.\n\n\n\nAdd your notes for Subtopic 1.2 here.",
+    "crumbs": [
+      "Home",
+      "<b>Notes</b>"
+    ]
+  },
+  {
+    "objectID": "notes.html#high-level-topic-2",
+    "href": "notes.html#high-level-topic-2",
+    "title": "Notes",
+    "section": "",
+    "text": "Add your notes for Subtopic 2.1 here.\n\n\n\nAdd your notes for Subtopic 2.2 here.",
+    "crumbs": [
+      "Home",
+      "<b>Notes</b>"
+    ]
+  },
+  {
+    "objectID": "notes.html#references",
+    "href": "notes.html#references",
+    "title": "Notes",
+    "section": "",
+    "text": "Reference 1: Link to reference\nReference 2: Link to reference",
+    "crumbs": [
+      "Home",
+      "<b>Notes</b>"
+    ]
+  },
+  {
+    "objectID": "notes.html#additional-resources",
+    "href": "notes.html#additional-resources",
+    "title": "Notes",
+    "section": "",
+    "text": "Resource 1: Link to resource\nResource 2: Link to resource",
+    "crumbs": [
+      "Home",
+      "<b>Notes</b>"
+    ]
+  },
+  {
+    "objectID": "journal.html#journal-entries",
+    "href": "journal.html#journal-entries",
+    "title": "Journal",
+    "section": "",
+    "text": "Write your journal entry for this date here.\n\n\n\nWrite your journal entry for this date here.\n\n\n\nWrite your journal entry for this date here.",
+    "crumbs": [
+      "Home",
+      "<b>Journal</b>"
+    ]
+  },
+  {
+    "objectID": "journal.html#reflections",
+    "href": "journal.html#reflections",
+    "title": "Journal",
+    "section": "",
+    "text": "Write your personal reflection or insight here.\n\n\n\nWrite your personal reflection or insight here.",
+    "crumbs": [
+      "Home",
+      "<b>Journal</b>"
+    ]
+  },
+  {
+    "objectID": "journal.html#future-plans",
+    "href": "journal.html#future-plans",
+    "title": "Journal",
+    "section": "",
+    "text": "Write your future plan or goal here.\n\n\n\nWrite your future plan or goal here.",
+    "crumbs": [
+      "Home",
+      "<b>Journal</b>"
+    ]
+  },
+  {
+    "objectID": "journal.html#references",
+    "href": "journal.html#references",
+    "title": "Journal",
+    "section": "",
+    "text": "Reference 1: Link to reference\nReference 2: Link to reference",
+    "crumbs": [
+      "Home",
+      "<b>Journal</b>"
+    ]
   }
 ]
