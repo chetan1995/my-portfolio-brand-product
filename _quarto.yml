@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: src
+  output-dir: docs
 
 theme: journal
 format:
