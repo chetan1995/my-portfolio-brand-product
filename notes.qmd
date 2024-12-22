@@ -1,5 +1,8 @@
 ---
 title: "Notes"
+format: 
+  html:
+    page-layout: full
 ---
 
 # Notes

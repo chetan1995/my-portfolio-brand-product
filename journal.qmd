@@ -1,5 +1,8 @@
 ---
 title: "Journal"
+format: 
+  html:
+    page-layout: full
 ---
 
 # Journal

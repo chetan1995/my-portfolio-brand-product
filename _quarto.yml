@@ -5,8 +5,10 @@ project:
 theme: journal
 format:
   html:
+    page-layout: full
     css: styles.css
     toc: true
+    toc-location: right
 
 website:
     title: "CHETAN KADWAY"
