@@ -1,6 +1,14 @@
 body {
   margin: 0 auto;
-  max-width: 80%; /* Adjust as needed */
+  max-width: 80%; /* Default for higher resolution */
+}
+
+/* For devices with resolution lower than 1024x824 */
+@media (max-width: 1024px) {
+  body {
+    margin: 0 auto;
+    max-width: 95%;
+  }
 }
 
 .navbar-brand {
@@ -73,4 +81,4 @@ a:hover {
 .sidebar nav[role=doc-toc] ul > li > a:hover, 
 .sidebar nav[role=doc-toc] ul > li > ul > li> a:hover {
   color: var(--bs-primary-hover) !important; 
-} 
+}
