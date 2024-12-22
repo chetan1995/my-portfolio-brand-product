@@ -3,7 +3,7 @@ title: "Chetan Kadway [ML Researcher | Edge AI]"
 format: 
   html:
     page-layout: full
-    css: index_styles.css
+    css: styles/index.css
 ---
 
 Welcome to my personal portfolio website! Here, you will find information about my professional background, key projects, research publications, and achievements in the field of Machine Learning and Edge AI.

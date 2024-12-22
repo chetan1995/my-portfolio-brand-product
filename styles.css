@@ -68,4 +68,4 @@ a:hover {
 .sidebar nav[role=doc-toc] ul > li > a:hover, 
 .sidebar nav[role=doc-toc] ul > li > ul > li> a:hover {
   color: var(--bs-primary-hover) !important; 
-}
+} 

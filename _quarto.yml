@@ -1,6 +1,12 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: src
+
+theme: journal
+format:
+  html:
+    css: styles.css
+    toc: true
 
 website:
     title: "CHETAN KADWAY"
@@ -78,11 +84,7 @@ website:
                   href: notes.qmd#subtopic-2-1
                 - text: "February"
                   href: notes.qmd#subtopic-2-2
-format:
-  html: 
-    theme: journal
-    css: styles.css
-    toc: true
+
 
 
 

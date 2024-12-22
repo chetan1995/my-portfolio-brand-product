@@ -1,5 +1,8 @@
 ---
 title: "Project 1: Edge AI CI/CD"
+format: 
+  html:
+    page-layout: full
 ---
 
 # Project 1: Edge AI CI/CD
