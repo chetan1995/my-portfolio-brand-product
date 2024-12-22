@@ -14,7 +14,7 @@
     "text": "Welcome to my personal portfolio website! Here, you will find information about my professional background, key projects, research publications, and achievements in the field of Machine Learning and Edge AI.",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {
@@ -146,7 +146,7 @@
     "text": "Personal Contact Info\n\n\n\n\n\n\n\nEmail: your-email@example.com\nPhone: +123-456-7890\nLinkedIn: linkedin.com/in/yourprofile\nGitHub: github.com/yourusername",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {
@@ -157,7 +157,7 @@
     "text": "Career Summary\n\n\n\n\n\n\nI am an experienced ML Researcher specializing in Edge AI with a strong background in developing and deploying machine learning models on edge devices. I have a proven track record of delivering high-impact projects and contributing to cutting-edge research in the field.",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {
@@ -168,7 +168,7 @@
     "text": "Key Technical Skills\n\n\n\n\n\n\n\nProgramming Languages: Python, C++, JavaScript\nMachine Learning: TensorFlow, PyTorch, Scikit-Learn\nData Analysis: Pandas, NumPy, SQL\nDevOps: Docker, Kubernetes, Jenkins\nWeb Development: HTML, CSS, JavaScript, React",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {
@@ -179,7 +179,7 @@
     "text": "Education Background\n\n\n\n\n\n\n\nPh.D. in Computer Science - University of XYZ, 2020\nM.S. in Artificial Intelligence - University of ABC, 2016\nB.S. in Computer Science - University of DEF, 2014",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {
@@ -190,7 +190,7 @@
     "text": "Key Projects\n\n\nProject 1: Edge AI CI/CD\nImplemented CI/CD pipelines for Edge AI applications using Docker, Kubernetes, and Jenkins.\n\n\nProject 2: AI Model Deployment\nExplored the deployment of AI models on edge devices using Avassa.",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {
@@ -201,7 +201,7 @@
     "text": "Research Publications\n\n\n\n\n\n\n\nPaper 1: “Title of Research Paper 1”, Journal of XYZ, 2021\nPaper 2: “Title of Research Paper 2”, Conference on ABC, 2020",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {
@@ -212,7 +212,7 @@
     "text": "Key Achievements Timeline\n\n\n\n\n\n\n\n2022: Awarded “Best Researcher” at the International AI Conference\n2021: Published a groundbreaking paper on Edge AI in the Journal of XYZ\n2020: Completed Ph.D. in Computer Science with a focus on Edge AI\n2019: Developed a novel AI model for real-time data analysis on edge devices",
     "crumbs": [
       "Home",
-      "**Home**"
+      "<b>Home</b>"
     ]
   },
   {

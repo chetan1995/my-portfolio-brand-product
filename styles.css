@@ -1,3 +1,71 @@
 .navbar-brand {
   color: white !important;
 }
+
+/* Set the primary color to dark green */
+:root {
+  --bs-primary: #2E8B57; /* Dark green color */
+  --bs-primary-hover: #FF4500; /* Pink-red color for hover */
+}
+
+.navbar-title {
+  color: #FFD700;
+  font-weight: bold;
+  font-size: x-large;
+}
+ 
+/* Apply the primary color to the navigation bar */
+.navbar, .navbar a {
+  background-color: var(--bs-primary);
+  color: white;
+}
+
+.navbar a:hover{
+  color: var(--bs-primary-hover);
+}
+
+/* Apply the primary color to links */
+a {
+  color: var(--bs-primary);
+}
+
+a:hover {
+  color: var(--bs-primary-hover);
+}
+
+/* Apply the primary color to buttons */
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-primary:hover {
+  background-color: var(--bs-primary-hover);
+  border-color: var(--bs-primary-hover);
+}
+
+/* Apply the primary-hover color to the sidebar text on hover */
+.sidebar a {
+  color: inherit; /* Default text color */
+}
+
+.sidebar a:hover {
+  color: var(--bs-primary-hover);
+}
+
+/* Apply the primary color to the active sidebar link */
+.sidebar a.active {
+  color: var(--bs-primary);
+  font-weight: bold; /* Optional: make the active link bold */
+}
+
+.sidebar nav[role=doc-toc] ul > li > a.active, 
+.sidebar nav[role=doc-toc] ul > li > ul > li> a.active {
+  border-left: 2px solid var(--bs-primary) !important; 
+  color: var(--bs-primary) !important; 
+}
+
+.sidebar nav[role=doc-toc] ul > li > a:hover, 
+.sidebar nav[role=doc-toc] ul > li > ul > li> a:hover {
+  color: var(--bs-primary-hover) !important; 
+}
