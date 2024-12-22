@@ -1,0 +1,4 @@
+h2 {
+  border-bottom: none;
+  padding-bottom: 0; /* Remove padding below text */
+}

@@ -1,15 +1,15 @@
-
 ---
 title: "Projects"
 format: 
   html:
     page-layout: full
+    css: styles/projects.css
 toc: false
 ---
 
 ::: {.grid}
 
-::: {.g-col-4 .border .rounded .p-3 .bg-light}
+::: {.grid-item .border .rounded .p-3 .bg-light}
 ### [Project 1](projects\P001-edge-AI-CICD\P001.qmd)
 ![Project 1 Image](projects\P001-edge-AI-CICD\images\Avassa-for-Edge-AI-v2-1024x468.webp)
 **Brief Introduction**: This project focuses on implementing CI/CD pipelines for Edge AI applications.
@@ -19,7 +19,7 @@ toc: false
 - **Tech tags**: Docker, Kubernetes, Jenkins, Avassa
 :::
 
-::: {.g-col-4 .border .rounded .p-3 .bg-light}
+::: {.grid-item  .border .rounded .p-3 .bg-light}
 ### [Project 2](projects\P002-edge-AI-CICD\P002.qmd)
 ![Project 2 Image](projects\P002-edge-AI-CICD\images\Avassa-for-Edge-AI-v2-1024x468.webp)
 **Brief Introduction**: This project explores the deployment of AI models on edge devices using Avassa.
@@ -29,7 +29,7 @@ toc: false
 - **Tech tags**: Docker, Kubernetes, Jenkins, Avassa
 :::
 
-::: {.g-col-4 .border .rounded .p-3 .bg-light}
+::: {.grid-item  .border .rounded .p-3 .bg-light}
 ### [Project 1](projects\P001-edge-AI-CICD\P001.qmd)
 ![Project 1 Image](projects\P001-edge-AI-CICD\images\Avassa-for-Edge-AI-v2-1024x468.webp)
 **Brief Introduction**: This project focuses on implementing CI/CD pipelines for Edge AI applications.
@@ -39,7 +39,7 @@ toc: false
 - **Tech tags**: Docker, Kubernetes, Jenkins, Avassa
 :::
 
-::: {.g-col-4 .border .rounded .p-3 .bg-light}
+::: {.grid-item  .border .rounded .p-3 .bg-light}
 ### [Project 2](projects\P002-edge-AI-CICD\P002.qmd)
 ![Project 2 Image](projects\P002-edge-AI-CICD\images\Avassa-for-Edge-AI-v2-1024x468.webp)
 **Brief Introduction**: This project explores the deployment of AI models on edge devices using Avassa.
