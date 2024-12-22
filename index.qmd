@@ -39,11 +39,11 @@ I am an experienced ML Researcher specializing in Edge AI with a strong backgrou
 
 ## Key Projects
 ::: {.grid}
-::: {.g-col-6 .border .rounded .p-3 .bg-light}
+::: {.grid-item .border .rounded .p-3 .bg-light}
 ### [Project 1: Edge AI CI/CD](projects/P001-edge-AI-CICD/P001.qmd)
 Implemented CI/CD pipelines for Edge AI applications using Docker, Kubernetes, and Jenkins.
 :::
-::: {.g-col-6 .border .rounded .p-3 .bg-light}
+::: {.grid-item .border .rounded .p-3 .bg-light}
 ### [Project 2: AI Model Deployment](projects/P002-edge-AI-CICD/P002.qmd)
 Explored the deployment of AI models on edge devices using Avassa.
 :::
