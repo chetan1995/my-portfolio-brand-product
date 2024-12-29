@@ -21,7 +21,7 @@ website:
         - text: "Services"
           href: services.qmd
         - text: "Notes"
-          href: notes.qmd
+          href: notes/notes.qmd
         - text: "Journal"
           href: journal.qmd
 

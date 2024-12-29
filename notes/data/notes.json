@@ -1,0 +1,20 @@
+{
+  "notes": [
+    {
+      "id": "deep-learning",
+      "title": "Deep Learning Fundamentals",
+      "date": "2024-01-15",
+      "topics": ["ML", "Neural Networks"],
+      "summary": "Introduction to deep learning concepts and neural network architectures",
+      "url": "deep-learning.html"
+    },
+    {
+      "id": "k8s-edge",
+      "title": "Kubernetes for Edge AI",
+      "date": "2024-01-10",
+      "topics": ["DevOps", "Edge AI"],
+      "summary": "Deploying AI applications on edge devices using Kubernetes",
+      "url": "k8s-edge.html"
+    }
+  ]
+}

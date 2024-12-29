@@ -66,9 +66,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="notes/js/notes.js" defer=""></script>
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="notes/styles/notes.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed">
@@ -331,21 +333,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#notes" id="toc-notes" class="nav-link active" data-scroll-target="#notes">Notes</a>
-  <ul class="collapse">
-  <li><a href="#high-level-topic-1" id="toc-high-level-topic-1" class="nav-link" data-scroll-target="#high-level-topic-1">High-Level Topic 1</a>
-  <ul class="collapse">
-  <li><a href="#subtopic-1.1" id="toc-subtopic-1.1" class="nav-link" data-scroll-target="#subtopic-1.1">Subtopic 1.1</a></li>
-  <li><a href="#subtopic-1.2" id="toc-subtopic-1.2" class="nav-link" data-scroll-target="#subtopic-1.2">Subtopic 1.2</a></li>
-  </ul></li>
-  <li><a href="#high-level-topic-2" id="toc-high-level-topic-2" class="nav-link" data-scroll-target="#high-level-topic-2">High-Level Topic 2</a>
-  <ul class="collapse">
-  <li><a href="#subtopic-2.1" id="toc-subtopic-2.1" class="nav-link" data-scroll-target="#subtopic-2.1">Subtopic 2.1</a></li>
-  <li><a href="#subtopic-2.2" id="toc-subtopic-2.2" class="nav-link" data-scroll-target="#subtopic-2.2">Subtopic 2.2</a></li>
-  </ul></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link active" data-scroll-target="#references">References</a></li>
   <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -371,31 +360,34 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="notes" class="level1">
-<h1>Notes</h1>
-<p>Welcome to my notes page. Here, you will find detailed notes on various topics related to my field of expertise.</p>
-<section id="high-level-topic-1" class="level2">
-<h2 class="anchored" data-anchor-id="high-level-topic-1">High-Level Topic 1</h2>
-<section id="subtopic-1.1" class="level3">
-<h3 class="anchored" data-anchor-id="subtopic-1.1">Subtopic 1.1</h3>
-<p>Add your notes for Subtopic 1.1 here.</p>
+<div class="container py-4">
+<div class="row">
+<div class="col-12">
+<div class="card notes-controls mb-4">
+<section id="filter-sort" class="level3 h4 mb-3 card-body">
+<h3 class="h4 mb-3 anchored" data-anchor-id="filter-sort">Filter &amp; Sort</h3>
+<div class="d-flex gap-4 flex-wrap">
+<div class="sort-controls">
+<p><strong>Sort by:</strong> <button class="btn btn-link sort-btn active px-2" data-sort="date">Date</button> <button class="btn btn-link sort-btn px-2" data-sort="topic">Topic</button> <button class="btn btn-link sort-btn px-2" data-sort="title">Title</button></p>
+</div>
+<div class="filter-controls">
+<p><strong>Filter by Topic:</strong> <button class="btn btn-link filter-btn active px-2" data-filter="all">All</button> <button class="btn btn-link filter-btn px-2" data-filter="ML">ML</button> <button class="btn btn-link filter-btn px-2" data-filter="DevOps">DevOps</button> <button class="btn btn-link filter-btn px-2" data-filter="Edge AI">Edge AI</button></p>
+</div>
+</div>
 </section>
-<section id="subtopic-1.2" class="level3">
-<h3 class="anchored" data-anchor-id="subtopic-1.2">Subtopic 1.2</h3>
-<p>Add your notes for Subtopic 1.2 here.</p>
-</section>
-</section>
-<section id="high-level-topic-2" class="level2">
-<h2 class="anchored" data-anchor-id="high-level-topic-2">High-Level Topic 2</h2>
-<section id="subtopic-2.1" class="level3">
-<h3 class="anchored" data-anchor-id="subtopic-2.1">Subtopic 2.1</h3>
-<p>Add your notes for Subtopic 2.1 here.</p>
-</section>
-<section id="subtopic-2.2" class="level3">
-<h3 class="anchored" data-anchor-id="subtopic-2.2">Subtopic 2.2</h3>
-<p>Add your notes for Subtopic 2.2 here.</p>
-</section>
-</section>
+</div>
+<div id="notes-grid" class="row g-4">
+<!-- Notes will be dynamically inserted here -->
+</div>
+<div class="pagination justify-content-center mt-4">
+<button class="btn btn-link page-prev">
+« Previous
+</button>
+<p><span class="page-info mx-3">Page <span class="current-page">1</span> of <span class="total-pages">1</span></span> <button class="btn btn-link page-next">Next »</button></p>
+</div>
+</div>
+</div>
+</div>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
 <ul>
@@ -411,7 +403,6 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

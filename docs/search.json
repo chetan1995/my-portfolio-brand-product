@@ -43,7 +43,7 @@
     "href": "notes.html",
     "title": "Notes",
     "section": "",
-    "text": "Welcome to my notes page. Here, you will find detailed notes on various topics related to my field of expertise.\n\n\n\n\nAdd your notes for Subtopic 1.1 here.\n\n\n\nAdd your notes for Subtopic 1.2 here.\n\n\n\n\n\n\nAdd your notes for Subtopic 2.1 here.\n\n\n\nAdd your notes for Subtopic 2.2 here.\n\n\n\n\n\nReference 1: Link to reference\nReference 2: Link to reference\n\n\n\n\n\nResource 1: Link to resource\nResource 2: Link to resource",
+    "text": "Sort by: Date Topic Title\n\n\nFilter by Topic: All ML DevOps Edge AI\n\n\n\n\n\n\n\n\n\n« Previous\n\nPage 1 of 1 Next »",
     "crumbs": [
       "Home",
       "<b>Notes</b>"
@@ -75,8 +75,8 @@
     "objectID": "notes.html#references",
     "href": "notes.html#references",
     "title": "Notes",
-    "section": "",
-    "text": "Reference 1: Link to reference\nReference 2: Link to reference",
+    "section": "References",
+    "text": "References\n\nReference 1: Link to reference\nReference 2: Link to reference",
     "crumbs": [
       "Home",
       "<b>Notes</b>"
@@ -86,8 +86,8 @@
     "objectID": "notes.html#additional-resources",
     "href": "notes.html#additional-resources",
     "title": "Notes",
-    "section": "",
-    "text": "Resource 1: Link to resource\nResource 2: Link to resource",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nResource 1: Link to resource\nResource 2: Link to resource",
     "crumbs": [
       "Home",
       "<b>Notes</b>"
@@ -295,5 +295,103 @@
       "Home",
       "<b>Projects</b>"
     ]
+  },
+  {
+    "objectID": "notes/k8s-edge.html",
+    "href": "notes/k8s-edge.html",
+    "title": "K8s for Edge AI",
+    "section": "",
+    "text": "Welcome to my notes page. Here, you will find detailed notes on various topics related to my field of expertise."
+  },
+  {
+    "objectID": "notes/k8s-edge.html#high-level-topic-1",
+    "href": "notes/k8s-edge.html#high-level-topic-1",
+    "title": "K8s for Edge AI",
+    "section": "High-Level Topic 1",
+    "text": "High-Level Topic 1\n\nSubtopic 1.1\nAdd your notes for Subtopic 1.1 here.\n\n\nSubtopic 1.2\nAdd your notes for Subtopic 1.2 here."
+  },
+  {
+    "objectID": "notes/k8s-edge.html#high-level-topic-2",
+    "href": "notes/k8s-edge.html#high-level-topic-2",
+    "title": "K8s for Edge AI",
+    "section": "High-Level Topic 2",
+    "text": "High-Level Topic 2\n\nSubtopic 2.1\nAdd your notes for Subtopic 2.1 here.\n\n\nSubtopic 2.2\nAdd your notes for Subtopic 2.2 here."
+  },
+  {
+    "objectID": "notes/k8s-edge.html#references",
+    "href": "notes/k8s-edge.html#references",
+    "title": "K8s for Edge AI",
+    "section": "References",
+    "text": "References\n\nReference 1: Link to reference\nReference 2: Link to reference"
+  },
+  {
+    "objectID": "notes/k8s-edge.html#additional-resources",
+    "href": "notes/k8s-edge.html#additional-resources",
+    "title": "K8s for Edge AI",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nResource 1: Link to resource\nResource 2: Link to resource"
+  },
+  {
+    "objectID": "notes/deep-learning.html",
+    "href": "notes/deep-learning.html",
+    "title": "Deep learning",
+    "section": "",
+    "text": "Welcome to my notes page. Here, you will find detailed notes on various topics related to my field of expertise.\n\n\n\n\nAdd your notes for Subtopic 1.1 here.\n\n\n\nAdd your notes for Subtopic 1.2 here.\n\n\n\n\n\n\nAdd your notes for Subtopic 2.1 here.\n\n\n\nAdd your notes for Subtopic 2.2 here.\n\n\n\n\n\nReference 1: Link to reference\nReference 2: Link to reference\n\n\n\n\n\nResource 1: Link to resource\nResource 2: Link to resource"
+  },
+  {
+    "objectID": "notes/deep-learning.html#high-level-topic-1",
+    "href": "notes/deep-learning.html#high-level-topic-1",
+    "title": "Deep learning",
+    "section": "",
+    "text": "Add your notes for Subtopic 1.1 here.\n\n\n\nAdd your notes for Subtopic 1.2 here."
+  },
+  {
+    "objectID": "notes/deep-learning.html#high-level-topic-2",
+    "href": "notes/deep-learning.html#high-level-topic-2",
+    "title": "Deep learning",
+    "section": "",
+    "text": "Add your notes for Subtopic 2.1 here.\n\n\n\nAdd your notes for Subtopic 2.2 here."
+  },
+  {
+    "objectID": "notes/deep-learning.html#references",
+    "href": "notes/deep-learning.html#references",
+    "title": "Deep learning",
+    "section": "",
+    "text": "Reference 1: Link to reference\nReference 2: Link to reference"
+  },
+  {
+    "objectID": "notes/deep-learning.html#additional-resources",
+    "href": "notes/deep-learning.html#additional-resources",
+    "title": "Deep learning",
+    "section": "",
+    "text": "Resource 1: Link to resource\nResource 2: Link to resource"
+  },
+  {
+    "objectID": "notes/notes.html",
+    "href": "notes/notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Sort by:  Date descending Date ascending Title ascending Title descending \n\n\nFilter by Topic: All ML DevOps Edge AI\n\n\nNotes per page:  6 12 24 48 \n\n\n\n\n\n\n\n\n← Previous  Page    of 1  Next →\n\n\n\n:::"
+  },
+  {
+    "objectID": "notes/notes.html#references",
+    "href": "notes/notes.html#references",
+    "title": "Notes",
+    "section": "References",
+    "text": "References\n\nReference 1: Link to reference\nReference 2: Link to reference"
+  },
+  {
+    "objectID": "notes/notes.html#additional-resources",
+    "href": "notes/notes.html#additional-resources",
+    "title": "Notes",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nResource 1: Link to resource\nResource 2: Link to resource"
+  },
+  {
+    "objectID": "notes/notes.html#filter-sort",
+    "href": "notes/notes.html#filter-sort",
+    "title": "Notes",
+    "section": "",
+    "text": "Sort by: Date | Topic | Title\n\n\nFilter by Topic: All | ML | DevOps | Edge AI\n\n\n\n\n\n\n← Previous Page 1 of 1 Next →"
   }
 ]

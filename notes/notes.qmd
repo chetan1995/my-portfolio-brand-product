@@ -1,0 +1,67 @@
+---
+title: "Notes"
+format: 
+  html:
+    page-layout: full
+    css: styles/notes.css
+---
+
+::: {.container .container-no-padding .py-4}
+::: {.row}
+::: {.col-12}
+
+::: {.notes-controls .mb-4 .p-2}
+::: {.d-flex .align-items-center .gap-3 .flex-wrap}
+::: {.sort-controls}
+**Sort by:**
+<select class="form-select form-select-sm sort-select" style="width: auto; display: inline-block;">
+  <option value="date-desc">Date descending</option>
+  <option value="date-asc">Date ascending</option>
+  <option value="title-asc">Title ascending</option>
+  <option value="title-desc">Title descending</option>
+</select>
+:::
+
+::: {.filter-controls .ms-md-3}
+**Filter by Topic:**
+[All]{.filter-btn .active data-filter="all"}
+[ML]{.filter-btn data-filter="ML"}
+[DevOps]{.filter-btn data-filter="DevOps"}
+[Edge AI]{.filter-btn data-filter="Edge AI"}
+:::
+
+::: {.per-page-controls .ms-md-3}
+**Notes per page:**
+<select class="form-select form-select-sm per-page-select" style="width: auto; display: inline-block;">
+  <option value="6">6</option>
+  <option value="12">12</option>
+  <option value="24">24</option>
+  <option value="48">48</option>
+</select>
+:::
+
+:::
+:::
+:::
+
+::: {#notes-grid .row .g-4}
+<!-- Notes will be dynamically inserted here -->
+:::
+
+::: {.pagination .justify-content-center .mt-4}
+[← Previous]{.page-prev .pagination-btn} 
+<span class="page-info mx-3">
+  Page 
+  <select class="form-select form-select-sm page-select" style="width: auto; display: inline-block;">
+    <!-- Options will be dynamically inserted here -->
+  </select>
+  of <span class="total-pages">1</span>
+</span>
+[Next →]{.page-next .pagination-btn}
+:::
+
+:::
+:::
+:::
+
+<script src="js/notes.js"></script>
